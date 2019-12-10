@@ -1,0 +1,80 @@
+[
+  {
+    "player": "Pelaaja1: ",
+    "sortedHand": [
+      {
+        "maa": "Risti",
+        "arvo": 10
+      },
+      {
+        "maa": "Timantti",
+        "arvo": 6
+      },
+      {
+        "maa": "Timantti",
+        "arvo": 5
+      },
+      {
+        "maa": "Timantti",
+        "arvo": 3
+      },
+      {
+        "maa": "Timantti",
+        "arvo": 1
+      }
+    ],
+    "result": "Suurin kortti on Risti 10"
+  },
+  {
+    "player": "Pelaaja2: ",
+    "sortedHand": [
+      {
+        "maa": "Pata",
+        "arvo": 13
+      },
+      {
+        "maa": "Pata",
+        "arvo": 8
+      },
+      {
+        "maa": "Pata",
+        "arvo": 3
+      },
+      {
+        "maa": "Hertta",
+        "arvo": 2
+      },
+      {
+        "maa": "Risti",
+        "arvo": 1
+      }
+    ],
+    "result": "Suurin kortti on Pata 13"
+  },
+  {
+    "player": "Pelaaja3: ",
+    "sortedHand": [
+      {
+        "maa": "Hertta",
+        "arvo": 8
+      },
+      {
+        "maa": "Hertta",
+        "arvo": 4
+      },
+      {
+        "maa": "Risti",
+        "arvo": 4
+      },
+      {
+        "maa": "Pata",
+        "arvo": 4
+      },
+      {
+        "maa": "Timantti",
+        "arvo": 2
+      }
+    ],
+    "result": "Kolme samaa"
+  }
+]
