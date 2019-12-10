@@ -1,80 +1,80 @@
 [
   {
-    "player": "Pelaaja1: ",
+    "player": "Pelaaja1:",
     "sortedHand": [
       {
-        "maa": "Risti",
-        "arvo": 10
-      },
-      {
         "maa": "Timantti",
-        "arvo": 6
-      },
-      {
-        "maa": "Timantti",
-        "arvo": 5
-      },
-      {
-        "maa": "Timantti",
-        "arvo": 3
-      },
-      {
-        "maa": "Timantti",
-        "arvo": 1
-      }
-    ],
-    "result": "Suurin kortti on Risti 10"
-  },
-  {
-    "player": "Pelaaja2: ",
-    "sortedHand": [
-      {
-        "maa": "Pata",
         "arvo": 13
       },
       {
-        "maa": "Pata",
-        "arvo": 8
+        "maa": "Timantti",
+        "arvo": 12
       },
       {
-        "maa": "Pata",
-        "arvo": 3
+        "maa": "Timantti",
+        "arvo": 9
       },
+      {
+        "maa": "Risti",
+        "arvo": 4
+      },
+      {
+        "maa": "Timantti",
+        "arvo": 1
+      }
+    ],
+    "result": "Suurin kortti on Timantti 13"
+  },
+  {
+    "player": "Pelaaja2:",
+    "sortedHand": [
       {
         "maa": "Hertta",
+        "arvo": 12
+      },
+      {
+        "maa": "Timantti",
+        "arvo": 10
+      },
+      {
+        "maa": "Pata",
         "arvo": 2
       },
       {
         "maa": "Risti",
-        "arvo": 1
-      }
-    ],
-    "result": "Suurin kortti on Pata 13"
-  },
-  {
-    "player": "Pelaaja3: ",
-    "sortedHand": [
-      {
-        "maa": "Hertta",
-        "arvo": 8
-      },
-      {
-        "maa": "Hertta",
-        "arvo": 4
-      },
-      {
-        "maa": "Risti",
-        "arvo": 4
+        "arvo": 2
       },
       {
         "maa": "Pata",
-        "arvo": 4
+        "arvo": 1
+      }
+    ],
+    "result": "Pari"
+  },
+  {
+    "player": "Pelaaja3:",
+    "sortedHand": [
+      {
+        "maa": "Pata",
+        "arvo": 12
+      },
+      {
+        "maa": "Hertta",
+        "arvo": 9
+      },
+      {
+        "maa": "Hertta",
+        "arvo": 5
+      },
+      {
+        "maa": "Risti",
+        "arvo": 3
       },
       {
         "maa": "Timantti",
         "arvo": 2
       }
     ],
-    "result": "Kolme samaa"
+    "result": "Suurin kortti on Pata 12"
   }
 ]
