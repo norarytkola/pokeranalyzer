@@ -82,9 +82,6 @@
                case "4":
                     result = "Neljä samaa";
                     break;
-               case "5":
-                    result = "Viisi samaa";
-                    break;
                default:
                     if(isStraight()){
                          result = "Suora";     
